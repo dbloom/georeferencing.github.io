@@ -1,6 +1,6 @@
 # Georeferencing.org
 
-This repository contains the source files for the [Georeferencing.org](https://georeferencing.github.io/) website.
+This repository contains the source files for the [Georeferencing.org](https://dbloom.github.io/georeferencing.github.io/) website.
 
 ## Usage
 

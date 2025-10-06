@@ -1,6 +1,6 @@
 # Georeferencing.org
 
-This repository contains the source files for the [Georeferencing.org website](https://georeferencing.github.io/).
+This repository contains the source files for the [Georeferencing.org](https://georeferencing.github.io/) website.
 
 ## Usage
 

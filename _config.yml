@@ -1,0 +1,45 @@
+# SITE SETTINGS
+title: Georeferencing.org
+author: Ranges # Used for copyright statement in footer
+url: "https://georeferencing.github.io" # No slash at the end
+
+# SOCIAL PROFILES
+# social:
+#   email: 
+#   twitter: 
+#   github: 
+
+# THEME SETTINGS
+theme: minima # Fallback theme
+remote_theme: peterdesmet/petridish@3.0
+posts_on_home: 3
+tweets_on_home: false
+archive_permalink: /news/
+github_edit: true
+# logo: /assets/images/ranges-logo.png
+colors:
+  links: "#8a9cdd"  # Default #84a8bd
+  banner: "#ddb387"  # Default #96a493
+  footer: "#dc8686"  # Default #566571
+font_serif: true
+rounded_corners: true
+
+# BUILD SETTINGS
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - assets/favicons/README.md
+  - _posts/README.md
+
+# FRONTMATTER DEFAULTS
+defaults:
+  - scope:
+      type: "posts"
+    values:
+      permalink: "/news/:year/:slug/" # Use /blog/yyyy/{filename}/ as permalink for all posts

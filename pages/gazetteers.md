@@ -34,7 +34,7 @@ toc: true
 - [Texas Geographic Information Service](https://www.tnris.org/){:target="_blank"}
 - [eMapLink - Boulder, Colorado](https://maps.bouldercolorado.gov/emaplink/){:target="_blank"}
 - [Colorado Geological Survey](https://coloradogeologicalsurvey.org/){:target="_blank"}
-- [PLSS Map Viewer](https://www.arcgis.com/apps/View/index.html?appid=019dd6f39fda4d3b811abfab0878b63b{:target="_blank"}
+- [PLSS Map Viewer](https://www.arcgis.com/apps/View/index.html?appid=019dd6f39fda4d3b811abfab0878b63b){:target="_blank"}
 - [Township and Range System (U.S. Public Land Survey)](https://project.geo.msu.edu/geogmich/michigan/Maps_Graphics%5CUSPLSS.pdf){:target="_blank"}
 
 ## Digital Maps

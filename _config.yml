@@ -19,8 +19,8 @@ github_edit: true
 logo: assets/logos/Georef_Logo_Transparent.png
 colors:
   links: "#28624d"  # Default #84a8bd
-  banner: "#8aa79d"  # Default #96a493
-  footer: "#ff9f1e"  # Default #566571
+  banner: "#7a9a8e"  # Default #96a493
+  footer: "#d89c2d"  # Default #566571
 font_serif: true
 rounded_corners: true
 

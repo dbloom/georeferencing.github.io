@@ -1,14 +1,16 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
-  href: /
 - text: About
   href: /about/
-- text: Team
-  href: /team/
-- text: Blog
-  href: /blog/
-- text: Documentation
+- text: Tools
+  href: /tools/
+- text: Gazetteers
+  href: /gazetteers/
+- text: Data Sources
+  href: /datasources/
+- text: Training
+  href: /training/
+# - text: Documentation
   menu: # Dropdown menu (one level deep only)
   - text: Installation
     href: /docs/installation/
@@ -19,6 +21,6 @@
   - text: "Dropdown header" # Title for block of menu items
   - text: Page with custom navigation
     href: /docs/custom-navigation/
-- text: GitHub
+# - text: GitHub
   href: https://github.com/peterdesmet/petridish/
   new_window: true

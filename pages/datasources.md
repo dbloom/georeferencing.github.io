@@ -20,6 +20,7 @@ toc: true
 ## Global Sources
 - [VertNet](https://www.vertnet.org/){:target="_blank"}
 - [Global Biodiveresity Information Facility (GBIF)](https://www.gbif.org/){:target="_blank"}
+- [GBIF Hosted Portals](https://www.gbif.org/composition/4s2G3hhH1n3reU0yN0F8RF/hosted-portals-in-production){:target="_blank"}
 - [FishNet2](https://www.fishnet2.net/){:target="_blank"}
 - [Arctos](https://arctosdb.org/){:target="_blank"}
 - [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/){:target="_blank"}

@@ -8,6 +8,9 @@ toc: true
 ---
 
 ## Area-Specific Sources
+- [Canadensys](https://www.canadensys.net/){:target="_blank"}
+- [GBIF North America](https://www.gbif-north-america.org/){:target="_blank"}
+- [GBIF.us](https://www.gbif.us/){:target="_blank"} (United States)
 - [Caifornia fire and Resource Assessment Program (FRAP)](https://www.fire.ca.gov/what-we-do/fire-resource-assessment-program/gis-mapping-and-data-analytics){:target="_blank"}
 - [SEINet Regional Network of North American Herbaria](https://symbiota.org/seinet/){:target="_blank"}
 - [Atlas of Living Australia](https://www.ala.org.au/){:target="_blank"}
@@ -18,9 +21,6 @@ toc: true
 - [VertNet](https://www.vertnet.org/){:target="_blank"}
 - [Global Biodiveresity Information Facility (GBIF)](https://www.gbif.org/){:target="_blank"}
 - [FishNet2](https://www.fishnet2.net/){:target="_blank"}
-- [Canadensys](https://www.canadensys.net/){:target="_blank"}
-- [GBIF North America](https://www.gbif-north-america.org/){:target="_blank"}
-- [GBIF.us](https://www.gbif.us/){:target="_blank"} (United States)
 - [Arctos](https://arctosdb.org/){:target="_blank"}
 - [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/){:target="_blank"}
 - [Symbiota Portals](https://symbiota.org/symbiota-portals/){:target="_blank"}
@@ -34,7 +34,6 @@ toc: true
 - [eBird](https://ebird.org/home){:target="_blank"}
 - [LizardBase](http://lizardbase.org/){:target="_blank"}
 - [NeotomaDB](https://www.neotomadb.org/){:target="_blank"}
-- [SUBMIT YOUR APPLICATION](https://forms.gle/YQnwF8Lcf4wvg4UdA){:target="_blank"}
 - [ITIS - Integrated Taxonomic Information System](https://www.itis.gov/){:target="_blank"}
 - [Encyclopedia of Life](https://eol.org/){:target="_blank"}
 - [Animal Diversity Web](https://animaldiversity.ummz.umich.edu/){:target="_blank"}

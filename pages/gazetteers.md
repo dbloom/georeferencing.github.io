@@ -9,6 +9,7 @@ toc: true
 
 ## Mapping Gazatteers
 - [GEOLocate](https://www.geo-locate.org/){:target="_blank"}
+- [GeoPick](https://geopick.gbif.org/){:target="_blank"}
 - [BerkeleyMapper](https://berkeleymapper.berkeley.edu/){:target="_blank"}
 - [GPS Visualizer](https://www.gpsvisualizer.com/){:target="_blank"}
 

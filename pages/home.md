@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Your research project
-description: Uses an easy to customize theme for its website
-background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
+title: Georeferencing.org
+description: Everything you need to get to the point
+background: # /assets/theme/images/chuttersnap-146799-unsplash.jpg
 permalink: /
 ---
 
-[Petridish](https://github.com/peterdesmet/petridish) is a Jekyll theme for research project websites. Or your personal blog or lab website. 👩‍🔬 It's mobile-friendly (thanks to [Bootstrap 5](https://getbootstrap.com/docs/5.3/)), free, easy to customize, and designed to work well with [GitHub Pages](https://pages.github.com/).
+![Georef_Logo_Transparent.png](/assets/logos/Georef_Logo_Transparent.png){:style="float: right;margin-right: 7px;margin-top: 7px;width: 400px;height: 211px"}Ranges is an [NSF-funded](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2228385&HistoricalAwards=false) project that seeks to digitize traits from over one million mammal specimens from 19 natural history museums, with a focus on western North America.
 
 ## Installation
 

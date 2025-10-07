@@ -1,6 +1,6 @@
 ---
 title: Georeferencing Tools
-description: A community of practice
+description: 
 background:
   img: # /assets/images/McLean_handlens.jpeg
   by: # Bryan McLean ©

@@ -1,6 +1,6 @@
 # SITE SETTINGS
 title: Georeferencing.org
-author: Ranges # Used for copyright statement in footer
+author: Georeferencing.org # Used for copyright statement in footer
 url: "https://georeferencing.github.io" # No slash at the end
 
 # SOCIAL PROFILES
@@ -16,7 +16,7 @@ posts_on_home: 3
 tweets_on_home: false
 archive_permalink: /news/
 github_edit: true
-# logo: /assets/images/ranges-logo.png
+logo: assets/logos/Georef_Logo_Transparent.png
 colors:
   links: "#8a9cdd"  # Default #84a8bd
   banner: "#ddb387"  # Default #96a493

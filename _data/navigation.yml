@@ -1,7 +1,5 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: About
-  href: /about/
 - text: Tools
   href: /tools/
 - text: Gazetteers
@@ -10,17 +8,19 @@
   href: /datasources/
 - text: Training
   href: /training/
+- text: About
+  href: /about/
 # - text: Documentation
-  menu: # Dropdown menu (one level deep only)
-  - text: Installation
-    href: /docs/installation/
-  - text: Configuration
-    href: /docs/configuration/
-  - href: /docs/markdown/ # Undefined "text" will automatically get the title of the page at "href" (here "Markdown")
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Dropdown header" # Title for block of menu items
-  - text: Page with custom navigation
-    href: /docs/custom-navigation/
+#  menu: # Dropdown menu (one level deep only)
+#  - text: Installation
+#    href: /docs/installation/
+#  - text: Configuration
+#    href: /docs/configuration/
+#  - href: /docs/markdown/ # Undefined "text" will automatically get the title of the page at "href" (here "Markdown")
+#  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+#  - text: "Dropdown header" # Title for block of menu items
+#  - text: Page with custom navigation
+#    href: /docs/custom-navigation/
 # - text: GitHub
   href: https://github.com/peterdesmet/petridish/
   new_window: true

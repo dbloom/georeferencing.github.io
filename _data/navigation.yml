@@ -1,5 +1,7 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
+- text: Guides & Manuals
+  href: /documentation/
 - text: Tools
   href: /tools/
 - text: Gazetteers

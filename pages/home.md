@@ -14,12 +14,18 @@ permalink: /
 
 ## Explore
 
+description: |
+  <div class="mt-6">
+    <form action="/georeferencing.github.io/documentation/" type="get">
+      <button type="Guides & Manuals" class="button is-primary ml-4">Search</button>
+      </div>
+  </div>
+
 - [Installation]({{ '/docs/installation/' | relative_url }})
 - [Configuration]({{ '/docs/configuration/' | relative_url }})
 - [Markdown]({{ '/docs/markdown/' | relative_url }})
 
-description: |
-  <div class="mt-6">
+<div class="mt-6">
     <form action="/occurrence/search" type="get">
       <div class="field" style="display: flex;">
         <input type="text" placeholder="Full text record search" name="q" class="input" />
@@ -30,3 +36,4 @@ description: |
       <a href="/post/2025/vertnet-is-all-new"><b>Why is Everything Different?</b></a>
     </div>
   </div>
+

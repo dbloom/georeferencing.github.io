@@ -6,6 +6,7 @@ background:
 permalink: /gazetteers/
 toc: true
 ---
+Want to recommend Gazetteers or mapping resources for this page? Find a broken link? [Contact us](){:target="_blank"}.
 
 ## Mapping Gazatteers
 - [GEOLocate](https://www.geo-locate.org/){:target="_blank"}

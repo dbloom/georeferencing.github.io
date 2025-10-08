@@ -3,6 +3,10 @@ layout: home
 title: Georeferencing.org
 description: Everything you need to get to the point
 background: # /assets/theme/images/chuttersnap-146799-unsplash.jpg
+cta:
+  - text: Guides & Manuals
+    href: georeferencing.github.io/documentation/
+    isPrimary: true
 permalink: /
 ---
 
@@ -14,5 +18,15 @@ permalink: /
 - [Configuration]({{ '/docs/configuration/' | relative_url }})
 - [Markdown]({{ '/docs/markdown/' | relative_url }})
 
-## Core Georeferencing Documentation
-- 
+description: |
+  <div class="mt-6">
+    <form action="/occurrence/search" type="get">
+      <div class="field" style="display: flex;">
+        <input type="text" placeholder="Full text record search" name="q" class="input" />
+        <button type="submit" class="button is-primary ml-4">Search</button>
+      </div>
+    </form>
+    <div class="mt-4">
+      <a href="/post/2025/vertnet-is-all-new"><b>Why is Everything Different?</b></a>
+    </div>
+  </div>

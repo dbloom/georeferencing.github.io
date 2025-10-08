@@ -7,6 +7,7 @@ background:
 permalink: /tools/
 toc: true
 ---
+Want to recommend tools for this page? Find a broken link? [Contact us](){:target="_blank"}.
 
 ## Converstion Tools
 - [Canadensys Coordinate Conversion (DDMMSS to Decimal Degrees)](https://data.canadensys.net/tools/coordinates){:target="_blank"}

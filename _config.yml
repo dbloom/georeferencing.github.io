@@ -1,7 +1,8 @@
 # SITE SETTINGS
 title: Georeferencing.org
 author: Georeferencing.org # Used for copyright statement in footer
-url: "https://georeferencing.org" # No slash at the end
+# url: "https://georeferencing.org" # No slash at the end
+baseurl: "/georeferencing.org"
 
 # SOCIAL PROFILES
 # social:
